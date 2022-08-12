@@ -1,5 +1,5 @@
-# IG Clone
-## Exercício proposto para a conclusão do bootcamp de HTML e CSS da plataforma DIO!
+# 📸 IG Clone 📸
+## Exercício proposto para a conclusão do bootcamp de HTML e CSS da plataforma DIO! 
 
 Aqui foram utilizadas técnicas de CSS como flexbox, estilização de links e reponsividade.
 
@@ -7,4 +7,4 @@ Aqui foram utilizadas técnicas de CSS como flexbox, estilização de links e re
 
 <img src="https://github.com/pesantxs/clone-instagram-dio/blob/master/amostra_site.png" alt="amostra_projeto">
 
-Autor: João Pedro Oliviera  
+Author: João Pedro Oliviera  
