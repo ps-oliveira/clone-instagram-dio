@@ -3,7 +3,8 @@
 
 Aqui foram utilizadas técnicas de CSS como flexbox, estilização de links e reponsividade.
 
-Você pode testar as funcionalidades do projeto neste link 👇🏽
+Você pode testar as funcionalidades do projeto neste link 👇
+🏽
 https://ps-oliveira.github.io/clone-instagram-dio/
 
 <h2>Amostra</h2>
